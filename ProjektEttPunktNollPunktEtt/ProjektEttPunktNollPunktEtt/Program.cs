@@ -13,6 +13,8 @@ namespace ProjektEttPunktNollPunktEtt
             Console.Beep();
             Console.Beep();
             Console.ReadKey();
+            Console.WriteLine("hej potatis");
+            Console.ReadLine();
         }
     }
 }
